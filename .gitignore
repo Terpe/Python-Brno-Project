@@ -1,0 +1,10 @@
+bin
+include
+lib
+lib64
+pip-selfcheck.json
+ProjectNotes.txt
+pyvenv.cfg
+share
+*.pyc
+*~
